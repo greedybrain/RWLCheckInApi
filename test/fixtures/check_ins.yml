@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  time_in: 2020-08-15 21:46:20
+  time_out: 2020-08-15 21:46:20
+  num_of_visits: 1
+  remarks_post_visit: MyString
+
+two:
+  name: MyString
+  time_in: 2020-08-15 21:46:20
+  time_out: 2020-08-15 21:46:20
+  num_of_visits: 1
+  remarks_post_visit: MyString
